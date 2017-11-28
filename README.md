@@ -1,8 +1,8 @@
 # PHYS220 CW 12 
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Baylee, Christine, Kristen**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-12-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-12-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-12-christine-baylee-kristen.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-12-christine-baylee-kristen)
 
 
 ## Specification
