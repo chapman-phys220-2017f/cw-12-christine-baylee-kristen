@@ -1,6 +1,6 @@
 # PHYS220 CW 12 
 
-**Author(s):** **CHANGEME**
+**Author(s):** Christine Outlaw, Baylee Mumma
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-12-christine-baylee-kristen.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-12-christine-baylee-kristen)
 
@@ -29,7 +29,7 @@ Your homework this week will be to finish this classwork assignment, and then us
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+The plots were really cool, especially for the parametric and Poincare plots.
 
 ## Honor Pledge
 
@@ -40,4 +40,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Christine Outlaw
